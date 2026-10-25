@@ -1,6 +1,4 @@
-# Juan Vicente Gallart
-
-# 👋 ¡Hola! Bienvenido a mi GitHub
+# 👋 ¡Hola! Soy Juan Vicente Gallart. Bienvenido a mi GitHub
 
 💻 **Informática · Programación · Aprendizaje continuo**
 

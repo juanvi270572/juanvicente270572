@@ -1,2 +1,2 @@
-# juanvicente270572
+# juan Vicente Gallart
 Repositorio principal de la cuenta
